@@ -1,3 +1,6 @@
+# Context
+This repo was to demonstrate an issue with PGlite running in the browser. A fix is [available in the following Issue.](https://github.com/electric-sql/pglite/issues/322#issuecomment-2374849146)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
